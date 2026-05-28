@@ -1,0 +1,32 @@
+aid: openvisionapi
+name: OpenVisionAPI
+description: "Open source computer vision API based on open source models"
+url: https://openvisionapi.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: OpenVisionAPI
+    description: "Open source computer vision API based on open source models"
+    humanURL: https://openvisionapi.com
+    baseURL: https://openvisionapi.com
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://openvisionapi.com
+common:
+  - type: Website
+    url: https://openvisionapi.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
