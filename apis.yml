@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://openvisionapi.com
 common:
+  - type: DomainSecurity
+    url: security/openvisionapi-domain-security.yml
   - type: Website
     url: https://openvisionapi.com
   - type: PublicAPIsListing
