@@ -33,20 +33,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: OpenVisionAPI
     description: "Open source computer vision API based on open source models"
     humanURL: https://openvisionapi.com
-    baseURL: https://openvisionapi.com
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://openvisionapi.com
